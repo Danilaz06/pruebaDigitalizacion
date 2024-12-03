@@ -1,3 +1,4 @@
 # pruebaDigitalizacion
 inicializacion 
 desarrollo 
+finalizacion
